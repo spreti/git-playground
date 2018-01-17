@@ -2,7 +2,7 @@
 
 ## Install Git on your system
 
-You are going to need a working git client on your system, be it Linux, Mac OS X or Linux. 
+You are going to need a working git client on your system, be it Linux, Mac OS X or MS-Windows. 
 
 If you don't have it installed yet, follow the instructions for your operating system here: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
